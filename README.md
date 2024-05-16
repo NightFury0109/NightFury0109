@@ -2,7 +2,7 @@
 
 ## About Me
 
-Passionate full-stack web & blockchain developer with 8+ years of experience in flexible and scalable websites/applications. Willing and able to work remotely.
+Passionate Full Stack Web & Blockchain Engineer with 8+ years of experience in creating scalable websites/applications. Open to remote work.
 
 - 🌍 I'm based in American and Asia
 - 🏢 I'm currently working at CodeCharley in New York
@@ -13,9 +13,9 @@ Passionate full-stack web & blockchain developer with 8+ years of experience in 
 
 ## Skills
 
-- **Languages:** [HTML, JavaScript, TypeScript, C/C++, Python]
-- **Frameworks:** [React, Next, Vue, Nuxt, Svelte, Node, Express, Nest, Laravel, CI]
-- **Tools:** [GitHub, Asana, Jira, Remix]
+- **Languages:** [HTML, CSS/SCSS, JavaScript, TypeScript, PHP, C/C++, C#, Python, SQL, NoSQL, Solidity, Go, Rust]
+- **Frameworks:** [React, Next, Vue, Nuxt, Svelte, Angular, Node, Express, Nest, Jest, Mocha, Cypress, Laravel, CI, Django, Flask, TypeORM, Prisma, Truffle, Hardhat, Web3]
+- **Tools:** [Webpack, Babel, GitHub, AWS, Docker, Asana, Jira, Trello, Remix]
 
 ## Projects
 
