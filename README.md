@@ -13,9 +13,9 @@ Passionate Full Stack Web & Blockchain Engineer with 8+ years of experience in c
 
 ## Skills
 
-- **Languages:** [HTML, CSS/SCSS, JavaScript, TypeScript, PHP, C/C++, C#, Python, SQL, NoSQL, Solidity, Go, Rust]
-- **Frameworks:** [React, Next, Vue, Nuxt, Svelte, Angular, Node, Express, Nest, Jest, Mocha, Cypress, Laravel, CI, Django, Flask, TypeORM, Prisma, Truffle, Hardhat, Web3]
-- **Tools:** [Webpack, Babel, GitHub, AWS, Docker, Asana, Jira, Trello, Remix]
+- **Languages:** HTML, CSS/SCSS, JavaScript, TypeScript, PHP, C/C++, C#, Python, SQL, NoSQL, Solidity, Go, Rust
+- **Frameworks:** React, Next, Vue, Nuxt, Svelte, Angular, Node, Express, Nest, Jest, Mocha, Cypress, Laravel, CI, Django, Flask, TypeORM, Prisma, Truffle, Hardhat, Web3
+- **Tools:** Webpack, Babel, GitHub, AWS, Docker, Asana, Jira, Trello, Remix
 
 ## Projects
 
