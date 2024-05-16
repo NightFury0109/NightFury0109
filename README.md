@@ -4,40 +4,37 @@
 
 Passionate full-stack web & blockchain developer with 8+ years of experience in flexible and scalable websites/applications. Willing and able to work remotely.
 
-- 🌍 I'm based in Europe, American and Asia
-- 🏢 I'm currently working at [Your Company]
-- 🔭 I’m currently working on [Current Projects][James Tong.pdf](https://github.com/NightFury0109/NightFury0109/files/15335012/James.Tong.pdf)
+- 🌍 I'm based in American and Asia
+- 🏢 I'm currently working at CodeCharley in New York
+- 🔭 I’m currently working on Real Estate projects
 
-- 🌱 I’m currently learning [New Skills or Technologies]
-- 💬 Ask me about [Topics You’re Knowledgeable About]
+- 🌱 I’m currently learning blockchain technologies more such as Solana, Web3, NFT mint & marketplace, etc.
+- 💬 Ask me about JS frameworks such as React, Svelte, Vue, Node, Nest.
 
 ## Skills
 
-- **Languages:** [List of Programming Languages]
-- **Frameworks:** [List of Frameworks]
-- **Tools:** [List of Development Tools]
+- **Languages:** [HTML, JavaScript, TypeScript, C/C++, Python]
+- **Frameworks:** [React, Next, Vue, Nuxt, Svelte, Node, Express, Nest, Laravel, CI]
+- **Tools:** [GitHub, Asana, Jira, Remix]
 
 ## Projects
 
-### [Project Name](link)
-- Description of the project
-- Key features
-- Technologies used
+### [NextRes](https://commercial.nextres.com/)
+- The web portal for real estate brokers
+- The Brokers' Bridge Lending Partner
+- React, Nest, PostgreSQL, AWS, BytePro, Stripe, Plaid, DocGen, DocMagic, Snappt, ServiceLink, ValuTrac, USCIS, USPS, GoogleMap
 
-### [Another Project Name](link)
-- Description of the project
-- Key features
-- Technologies used
+### [Finresi](https://www.finresi.com/)
+- Finresi is a digital platform that allows investors to participate in high yield real estate loans. Finresi partners with and purchases loans from a network of lenders whose loans end up on the Finresi marketplace. All loans go through our due diligence process before being offered as an opportunity. Finresi’s revenue is generated from collecting a difference in the rate spread offered to investors versus the action loan on the platform. This fee covers Finresi’s cost of underwriting and servicing the loans.
+- High-yield, Premium real estate secured loans
+- React, Nest, PostgreSQL, AWS, Plaid, DocuSign, Twilio, InvestReady, ActiveCampaign, Intercom
 
-## Achievements
-
-- [Certification or Award]
-- [Publication or Contribution]
+### [AtlasAuctioneers](https://www.atlasauctioneers.com/)
+- Connecticut business & restaurant auction website
+- Restaurant, Food processing
+- React, Nest, PostgreSQL, WordPress, AWS
 
 ## Get in Touch
-
-- [LinkedIn](link)
-- [Email](mailto:youremail@example.com)
 
 [![image](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamestong.lucky@gmail.com)
 [![image](https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/FtSUhsqCLYeZ)
