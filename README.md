@@ -39,6 +39,12 @@ Passionate Full Stack Web & Blockchain Engineer with 8+ years of experience in c
 - Restaurant, Food processing
 - React, Nest, PostgreSQL, WordPress, AWS
 
+## Achievements
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NightFury0109&show_icons=true&theme=radical)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NightFury0109&layout=compact&theme=radical)
+- ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=NightFury0109&theme=dracula)
+
 ## Get in Touch
 
 [![image](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:james@codecharley.com)
