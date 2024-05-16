@@ -42,10 +42,10 @@ Passionate Full Stack Web & Blockchain Engineer with 8+ years of experience in c
 ## Achievements
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NigitFury0109" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NightFury0109" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NigitFury0109&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NightFury0109&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## Get in Touch
