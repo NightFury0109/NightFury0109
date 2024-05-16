@@ -41,7 +41,7 @@ Passionate Full Stack Web & Blockchain Engineer with 8+ years of experience in c
 
 ## Achievements
 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=NightFury0109&include_all_commits=true&theme=dark&count_private=true&show_icons=true&"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=NightFury0109&include_all_commits=true&theme=dark&count_private=true&show_icons=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NightFury0109&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="border-radius: 20px"/>
 
