@@ -27,8 +27,8 @@ Passionate Full Stack Web & Blockchain Engineer with 8+ years of experience in c
 ### [Finresi](https://www.finresi.com/)
 - Finresi is a digital platform that allows investors to participate in high yield real estate loans. Finresi partners with and purchases loans from a network of lenders whose loans end up on the Finresi marketplace. All loans go through our due diligence process before being offered as an opportunity. Finresi’s revenue is generated from collecting a difference in the rate spread offered to investors versus the action loan on the platform. This fee covers Finresi’s cost of underwriting and servicing the loans.
 - High-yield, Premium real estate secured loans
-- React, Nest, PostgreSQL, AWS, Plaid, DocuSign, Twilio, InvestReady, ActiveCampaign, Intercom
-- 
+- React, Nest, PostgreSQL, AWS, Plaid, DocuSign, Twilio, InvestReady, ActiveCampaign, Intercom, GoogleMap
+  
 ### [RTLTrader](https://rtltrader.com/)
 - Real Estate pricing engine providing the interest rate and price for a loan
 - Scalability, Flexibility, Accuracy
