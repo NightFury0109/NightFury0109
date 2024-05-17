@@ -8,7 +8,7 @@ Passionate Full Stack Web & Blockchain Engineer with 8+ years of experience in c
 - 🏢 I'm currently working at [CodeCharley](https://codecharley.com/) in New York
 - 🔭 I’m currently working on Real Estate projects
 
-- 🌱 I’m currently learning blockchain technologies more such as Solana, Web3, NFT mint & marketplace, etc.
+- 🌱 I’m currently learning about the real estate and blockchain technologies more such as Solana, Web3, NFT mint & marketplace, etc.
 - 💬 Ask me about JS frameworks such as React, Svelte, Vue, Node, Nest.
 
 ## Skills
