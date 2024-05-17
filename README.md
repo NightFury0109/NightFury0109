@@ -4,7 +4,7 @@
 
 Passionate Full Stack Web & Blockchain Engineer with 8+ years of experience in creating scalable websites/applications. Open to remote work.
 
-- 🌍 I'm based in American and Asia
+- 🌍 I'm based in America and Asia
 - 🏢 I'm currently working at [CodeCharley](https://codecharley.com/) in New York
 - 🔭 I’m currently working on Real Estate projects
 
