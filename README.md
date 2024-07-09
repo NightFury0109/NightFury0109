@@ -23,7 +23,12 @@ Passionate Full Stack Web & Blockchain Engineer with 8+ years of experience in c
 - The Nexys loan management software platform is a hub built to always be on the cutting edge of private and commercial lending technology stack of Customer Relationship Management (CRM), Loan Origination Software (LOS), Loan Pricing with Real Time Rate Locking, Loan Servicing, 3rd Party (Outsourced) Loan Servicing Management, Investors, Capital Raise, Accounting, Vendors and Default Management.
 - Next, Nest, PostgreSQL, AWS, USPS, GoogleMap, Calendly, ActiveCampaign
 
-### [NextRes](https://commercial.nextres.com/)
+### [NextRes](https://www.nextres.com/)
+- The Power of Smart Investment Lending
+- With cutting-edge technology, and a streamlined process, Nextres gets you to the finish line FAST and provides you with the financing you need for your next investment property.
+- React, Nest, PostgreSQL, AWS, USPS, GoogleMap
+
+### [Commercial NextRes](https://commercial.nextres.com/)
 - The web portal for real estate brokers
 - The Brokers' Bridge Lending Partner
 - React, Nest, PostgreSQL, AWS, BytePro, Stripe, Plaid, DocGen, DocMagic, Snappt, ServiceLink, ValuTrac, USCIS, USPS, GoogleMap
