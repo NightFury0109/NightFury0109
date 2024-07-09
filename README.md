@@ -34,6 +34,11 @@ Passionate Full Stack Web & Blockchain Engineer with 8+ years of experience in c
 - Scalability, Flexibility, Accuracy
 - React, Nest, PostgreSQL, AWS
 
+### [Nexys](https://www.nexys.com/)
+- The web portal for real estate brokers
+- The Brokers' Bridge Lending Partner
+- React, Nest, PostgreSQL, AWS, Stripe, Plaid, DocGen, DocMagic, Snappt, ServiceLink, ValuTrac, USCIS, USPS, GoogleMap, Calendly
+
 ### [AtlasAuctioneers](https://www.atlasauctioneers.com/)
 - Connecticut business & restaurant auction website
 - Restaurant, Food processing
