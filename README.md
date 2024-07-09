@@ -36,7 +36,7 @@ Passionate Full Stack Web & Blockchain Engineer with 8+ years of experience in c
 
 ### [Nexys](https://www.nexys.com/)
 - The Nexys loan management software platform is a hub built to always be on the cutting edge of private and commercial lending technology stack of Customer Relationship Management (CRM), Loan Origination Software (LOS), Loan Pricing with Real Time Rate Locking, Loan Servicing, 3rd Party (Outsourced) Loan Servicing Management, Investors, Capital Raise, Accounting, Vendors and Default Management.
-- React, Nest, PostgreSQL, AWS, Stripe, Plaid, DocGen, DocMagic, Snappt, ServiceLink, ValuTrac, USCIS, USPS, GoogleMap, Calendly
+- Next, Nest, PostgreSQL, AWS, Stripe, Plaid, DocGen, DocMagic, Snappt, ServiceLink, ValuTrac, USCIS, USPS, GoogleMap, Calendly
 
 ### [AtlasAuctioneers](https://www.atlasauctioneers.com/)
 - Connecticut business & restaurant auction website
