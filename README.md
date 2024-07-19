@@ -33,7 +33,7 @@ Passionate Full Stack Web & Blockchain Engineer with 8+ years of experience in c
 - Simple. Efficient. Transparent.
 - React, Nest, PostgreSQL, AWS, BytePro, Stripe, Plaid, DocGen, DocMagic, Snappt, ServiceLink, ValuTrac, USCIS, USPS, GoogleMap
 
-### [RTLTrader](https://rtltrader.com/)
+### [RTL Trader](https://rtltrader.com/)
 - Real Estate pricing engine providing the interest rate and price for a loan
 - Scalability, Flexibility, Accuracy
 - React, Nest, PostgreSQL, AWS
