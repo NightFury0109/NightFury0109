@@ -1,4 +1,4 @@
-# Hi there, I'm James Tong 👋
+# Hi there 👋
 
 ## About Me
 
